@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="resources/tile.png">../../resources/tile.png</file>
+        <file alias="resources/border.png">../../resources/border.png</file>
+        <file alias="resources/player.png">../../resources/player.png</file>
+        <file alias="resources/bullet.png">../../resources/bullet.png</file>
+        <file alias="resources/palette.png">../../resources/palette.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,10 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file alias="resources/tileAir.png">../../resources/editor/tileAir.png</file>
+    <file alias="resources/tileNormal.png">../../resources/editor/tileNormal.png</file>
+    <file alias="resources/tileAdamantine.png">../../resources/editor/tileAdamantine.png</file>
+    <file alias="resources/colorPicker.png">../../resources/editor/colorPicker.png</file>
+    <file alias="resources/tile.png">../../resources/tile.png</file>
+    <file alias="resources/border.png">../../resources/border.png</file>
+</qresource>
+</RCC>
